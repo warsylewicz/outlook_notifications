@@ -4,7 +4,7 @@
 // @match       https://outlook.office.com/mail/*
 // @match       https://outlook.office365.com/mail/*
 // @grant       none
-// @version     1.0
+// @version     1.1
 // @author      -
 // @description 1/8/2020, 4:31:56 PM
 // ==/UserScript==
